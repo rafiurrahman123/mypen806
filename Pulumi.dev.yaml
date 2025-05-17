@@ -1,1 +1,2 @@
-
+environment:
+  - sus-azure/panos-vm
